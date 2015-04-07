@@ -1,0 +1,5 @@
+package dimitri.android.insta.annuaire.entity;
+
+public class PromotionEntity {
+
+}

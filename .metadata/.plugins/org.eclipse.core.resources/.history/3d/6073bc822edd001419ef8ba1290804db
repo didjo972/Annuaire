@@ -1,0 +1,27 @@
+package dimitri.android.insta.annuaire.entity;
+
+public class PromotionEntity {
+	private int id;
+	private String numPromotion;
+	
+	PromotionEntity(){
+		
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getNumPromotion() {
+		return numPromotion;
+	}
+
+	public void setNumPromotion(String numPromotion) {
+		this.numPromotion = numPromotion;
+	}
+	
+}

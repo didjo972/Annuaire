@@ -1,0 +1,11 @@
+Je m'appelle Je m'appelle <?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Annuaire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_selectionner">Sélectionner</string>
+    <string name="je_mappelle">Je m'appelle</string>
+    <string />
+
+</resources>

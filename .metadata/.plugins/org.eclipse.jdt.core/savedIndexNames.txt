@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\DIMITRI\android\insta\.metadata\.plugins\org.eclipse.jdt.core
+760376991.index
+3628750574.index
+2874195192.index
